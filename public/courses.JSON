@@ -1,65 +1,83 @@
 [
     {
+        "id": 1,
         "title": "DIY Beatrix Crown and Horns + Makeup (Lords Mobile Halloween Look)",
         "instructor": "Kate Chystykova",
         "time": "1h 10m",
         "enrolled": 1137,
+        "price": 2,
         "courseImage": "https://i.imgur.com/RlFLDw2.jpg"
     },
     {
+        "id": 2,
         "title": "Painting with Thread: Modern Embroidery for Beginners",
         "instructor": "Danielle Clough",
         "time": "1h 29m",
         "enrolled": 10984,
+        "price": 2.5,
         "courseImage": "https://i.imgur.com/hiWQ2pN.jpg"
     },
     {
+        "id": 3,
         "title": "Sewing Basics: Make Your Own Clothing",
         "instructor": "Denise Bayron",
         "time": "1h 55m",
         "enrolled": 3409,
+        "price": 3,
         "courseImage": "https://i.imgur.com/TFqe2Zg.jpg"
     },
     {
+        "id": 4,
         "title": "Build your own Remote Controlled Airplane - ezflight school",
         "instructor": "Jeriah Miller",
         "time": "2h 33m",
         "enrolled": 971,
+        "price": 2,
         "courseImage": "https://i.imgur.com/LRqENZB.jpg"
     },
     {
+        "id": 5,
         "title": "Modern Flowers: Arranging a Stunning Centerpiece",
-        "instructor": "Michael + Darroch Putnam",
+        "instructor": "Darroch Putnam",
         "time": "48m",
         "enrolled": 6499,
+        "price": 4,
         "courseImage": "https://i.imgur.com/B9tNu3D.jpg"
     },
     {
+        "id": 6,
         "title": "Color Workshop: The Basics for Artists and Illustrators",
         "instructor": "Gabrielle Brickey",
         "time": "45m",
         "enrolled": 16955,
+        "price": 5,
         "courseImage": "https://i.imgur.com/GVSzLEX.jpg"
     },
     {
+        "id": 7,
         "title": "10-Minute DIY Pocket Notebook/Planner",
         "instructor": "Kate Chystykova",
         "time": "31m",
         "enrolled": 1213,
+        "price": 2.5,
         "courseImage": "https://i.imgur.com/y13uCS4.jpg"
     },
     {
+        "id": 8,
         "title": "Easy Clay Earrings: Learn 3 Styles using Oven-Bake Clay",
         "instructor": "Kiley Bennett",
         "time": "49m",
         "enrolled": 4833,
+        "price": 3,
         "courseImage": "https://i.imgur.com/K6Pi6Sk.jpg"
     },
     {
+        "id": 9,
         "title": "Telling Stories in Pictures: A Guide to Creating a Photo Story",
         "instructor": "KC Nwakalor",
         "time": "58m",
         "enrolled": 1253,
+        "price": 4,
         "courseImage": "https://i.imgur.com/mfIeVEF.jpg"
     }
 ]

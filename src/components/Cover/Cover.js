@@ -1,7 +1,7 @@
 import React from 'react';
-import './Cover.css'
 import img from '../../images/banner.png'
 
+// Cover Page Style
 const coverStyle = {
     backgroundImage: `url(${img})`,
     height: "100vh",
@@ -9,6 +9,7 @@ const coverStyle = {
     backgroundRepeat: 'no-repeat'
 }
 
+// Cover Page
 const Cover = () => {
     return (
         <div>
